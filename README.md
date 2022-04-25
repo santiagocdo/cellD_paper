@@ -1,4 +1,4 @@
-# Learning from the absent of stimulus
+# Learning from the absence of stimuli
 
 ## Summary:
 Here you will find: 6 data sets, 3 in long format (lf) and 3 in wide format (wf); and 1 R script code, with which we have made the statistical analysis, and visualization for a paper published in Journal of Experimental Psychology: General in collaboration with James E. Witnauer and Ralph R. Miller from SUNY.
